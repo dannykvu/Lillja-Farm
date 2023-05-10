@@ -20,7 +20,7 @@ export default function Home() {
                     <h1 className={'text-3xl md:text-4xl font-bold text-primary mb-6'}>
                         Houston, Texas
                     </h1>
-                    <p className={'text-lg mt-6 text-lg text-secondary-text'}>
+                    <p className={'text-lg mt-6 text-secondary-text'}>
                         We are a family-owned chicken farm that specializes in providing the freshest 
                         
                         processed poultry and
