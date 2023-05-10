@@ -1,0 +1,15 @@
+
+.slick-slider {
+    width: 125%;
+}
+.max-w-screen-xxl {
+    max-width: 1800px;
+  }
+  
+.productImage {
+    width: 500px;
+    height: 510px;
+    object-fit: cover;
+  }
+  
+  
