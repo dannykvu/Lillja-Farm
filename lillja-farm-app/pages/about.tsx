@@ -21,7 +21,7 @@ const About = () => {
             <div>
               <p className="text-xl leading-7 text-gray-500">
                 At Lillja Farm, we are committed to providing fresh, high-quality poultry and eggs to the Houston community. 
-                Our locally raised chickens and ducks are processed on-site using humane and sustainable methods to ensure that our customers receive only the best products.
+                Our locally raised chickens are processed on-site using humane and sustainable methods to ensure that our customers receive only the best products.
               </p>
               <br />
               <p className="mt-4 text-xl leading-7 text-gray-500">
@@ -33,7 +33,7 @@ const About = () => {
               </p>
               <br />
               <p className="mt-4 text-xl leading-7 text-gray-500">
-                  Whether you are a home cook looking for the freshest, most delicious eggs or you are searching for processed chickens, 
+                  Whether you are a home cook looking for the freshest, most delicious eggs or you are searching for delicious processed chickens, 
                   Lillja Farm has you covered. Contact us today to learn more about our products and services.
               </p>
             </div>
