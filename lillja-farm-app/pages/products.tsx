@@ -144,7 +144,7 @@ const Products = () => {
             {/* Chickens */}
               {/* Roosters */}
               <div className="p-4">
-                <img className={styles.productImage} src="/cockerel.png" alt="Rooster Chicken" />
+                <img className={styles.productImage} src="/Cockerel.png" alt="Rooster Chicken" />
                 <div>
                   <h2 className="text-lg font-medium text-gray-900 mb-4">Fresh Processed Rooster - (MKRT Price)</h2>
                   <ul className="list-disc list-inside mt-2 text-base text-gray-700">
