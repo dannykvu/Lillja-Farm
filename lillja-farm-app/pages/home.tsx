@@ -26,13 +26,13 @@ export default function Home() {
           </p>
 
           <div className="grid py-8  grid-cols-6 max-xs:grid-cols-3 md:flex md:flex-wrap">
-            <a className="mr-8 mb-4 animate-fade-in-5" href="" target="_blank">
+            {/* <a className="mr-8 mb-4 animate-fade-in-5" href="" target="_blank">
               <FiInstagram
                 className="text-secondary-text transition-transform hover:text-primary hover:scale-110"
                 size="2rem"
               />
-            </a>
-            <a className="mr-8 mb-4 animate-fade-in-6" href="" target="_blank">
+            </a> */}
+            <a className="mr-8 mb-4 animate-fade-in-6" href="https://www.facebook.com/pages/Lillja%20Farm/607282782973622/about/?ref" target="_blank">
               <FaFacebook
                 className="text-secondary-text transition-transform hover:text-primary hover:scale-110"
                 size="2rem"

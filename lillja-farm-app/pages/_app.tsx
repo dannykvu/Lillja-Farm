@@ -1,11 +1,9 @@
 import type { AppProps } from "next/app";
 import "../styles/globals.css";
+import { appWithTranslation } from 'next-i18next';
 
-export default function App({ Component, pageProps }: AppProps) {
-  return (
-    <>
-      {/* <GoogleAnalytics trackPageViews gaMeasurementId={config.GA_MEASUREMENT_ID} /> */}
-      <Component {...pageProps} />
-    </>
-  );
+function App({ Component, pageProps }: AppProps) {
+  return <Component {...pageProps} />;
 }
+
+export default appWithTranslation(App);
